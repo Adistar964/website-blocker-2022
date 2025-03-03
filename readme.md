@@ -62,9 +62,11 @@ No external dependencies are required for this project.
 ## Screenshots
 
 - **Login Screen**:
+
   ![Login Screen](screenshots/login.png)
 
 - **Main Screen**:
+
   ![Main Screen](screenshots/main_screen.png)
 
 ---
